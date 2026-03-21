@@ -1,8 +1,21 @@
-import Image from "next/image";
+import React from 'react'
 
-export default function Home()
- {
-  return (10+20)
+ const page = () => {
+  return (
+      <div>
 
+    <div className="h-2 bg-sky-900 text-amber-50">
+<h2 className="pl-1 m-0.5">Online Examnation</h2>
+    </div>
 
+    <div>
+<div>Home</div>
+<div>Teacher</div>
+<div>Student</div>
+<div>Login</div>
+    </div>
+
+  </div>
+  )
 }
+export default page;
