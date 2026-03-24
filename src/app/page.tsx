@@ -30,6 +30,7 @@ import React from 'react'
         <p>shi se kro kaam</p>
         
         <p>shi se kro kaam</p>
+        <h1>PR</h1>
     </div>
 
   </div>
