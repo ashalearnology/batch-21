@@ -24,12 +24,7 @@ import React from 'react'
     </div>
     <div>
         <p>shi se kro kaam</p>
-        <p>shi se kro kaam</p>
-        <p>shi se kro kaam</p>
-        
-        <p>shi se kro kaam</p>
-        
-        <p>shi se kro kaam</p>
+    
         <h1>PR</h1>
         <h2>welcome to hello world</h2>
     </div>
