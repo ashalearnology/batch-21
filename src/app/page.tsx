@@ -18,6 +18,13 @@ import React from 'react'
 <div>Student</div>
 <div>Login</div>
     </div>
+    <div>
+        <h1>more info</h1>
+        <button>click</button>
+    </div>
+    <div>
+        <p>shi se kro kaam</p>
+    </div>
 
   </div>
   )
