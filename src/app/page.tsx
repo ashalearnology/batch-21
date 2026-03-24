@@ -22,6 +22,9 @@ import React from 'react'
         <h1>more info</h1>
         <button>click</button>
     </div>
+    <div>
+        <p>ndjkfhjbcndvhc fnsdsjhccbds sdkjsdbs</p>
+    </div>
 
   </div>
   )
