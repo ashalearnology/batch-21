@@ -23,7 +23,7 @@ import React from 'react'
         <button>click</button>
     </div>
     <div>
-        <p>ndjkfhjbcndvhc fnsdsjhccbds sdkjsdbs</p>
+        <p>shi se kro kaam</p>
     </div>
 
   </div>
