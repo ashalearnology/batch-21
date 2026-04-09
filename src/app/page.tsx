@@ -20,7 +20,7 @@ const page = () => {
             />
             <input
               placeholder="EMail or phone "
-              className="  border-2 p-1 rounded border-gray-200 text-red-500 pl-14 w-sm"
+              className="  border-2 p-1 rounded border-gray-200 text-blue pl-14 w-sm"
             />
           </div>
           <div className="relative">
